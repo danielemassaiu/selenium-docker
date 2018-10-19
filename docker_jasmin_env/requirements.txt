@@ -1,0 +1,4 @@
+selenium
+virtualenv
+urllib3[secure]
+flask
